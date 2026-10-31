@@ -62,6 +62,7 @@ def is_png(file_name):
         return True
     else:
         return False
+   
 
 
 def print_file_type(file_name):
